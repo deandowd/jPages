@@ -22,7 +22,7 @@
         startPage: 1,
         perPage: 5,
         midRange: 5,
-        startRange: 2,
+        startRange: 1,
         endRange: 1,
         keyBrowse: false,
         scrollBrowse: false,
