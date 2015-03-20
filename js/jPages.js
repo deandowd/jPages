@@ -20,9 +20,9 @@
         last: false,
         links: "numeric", // blank || title
         startPage: 1,
-        perPage: 10,
+        perPage: 5,
         midRange: 5,
-        startRange: 1,
+        startRange: 2,
         endRange: 1,
         keyBrowse: false,
         scrollBrowse: false,
